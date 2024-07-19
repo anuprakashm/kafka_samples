@@ -4,6 +4,16 @@ What is Apache Kafka?
 Apache Kafka is an open-source stream-processing software platform developed by LinkedIn and donated to the Apache Software Foundation. It is written in Scala and Java. Kafka is designed to handle real-time data feeds, providing high throughput, low-latency platform for handling real-time data feeds.
 
 #### Question: 
+What is the COBOL Kafka SDK library in ZOS from IBM called? When was it launched?  What is the currently available version?
+#### Answer: 
+The COBOL Kafka SDK library in ZOS from IBM is called "IBM Open Enterprise SDK for Apache Kafka".  It was launched in June 2024.  The latest version available is 1.1.
+
+#### Question: 
+Is "IBM Open Enterprise SDK for Apache Kafka" free of cost?
+#### Answer: 
+"IBM Open Enterprise SDK for Apache Kafka" is free of cost, however support via IBM Software Subscription and Support (S&S) is chargeble.
+
+#### Question: 
 What are the main components of Kafka?
 #### Answer: 
 Kafka's main components are Producers, Consumers, Topics, Partitions, Brokers, Zookeeper, and Kafka Connect. Producers publish messages to topics, Consumers read messages, Topics categorize messages, Partitions allow parallelism, Brokers store and serve messages, Zookeeper manages metadata, and Kafka Connect integrates with external systems.
